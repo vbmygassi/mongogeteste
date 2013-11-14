@@ -1,0 +1,14 @@
+{
+	"name": "MongoDB",
+	"description": "Beatin around the MongoDB",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"mongodb": "x.x",
+		"mongoose": "x.x"
+	},
+	"engines": {
+		"node": "0.10.x",
+		"npm": "1.x"
+	}
+}
